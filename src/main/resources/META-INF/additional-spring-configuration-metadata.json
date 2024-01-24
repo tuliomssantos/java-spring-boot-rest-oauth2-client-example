@@ -1,0 +1,14 @@
+{
+    "properties": [
+        {
+            "name": "spring.logging.level.org.springframework.security",
+            "type": "java.lang.String",
+            "description": "A description for 'spring.logging.level.org.springframework.security'"
+        },
+        {
+            "name": "frontend.url",
+            "type": "java.lang.String",
+            "description": "A description for 'frontend.url'"
+        }
+    ]
+}
